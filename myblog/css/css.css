@@ -1,0 +1,15 @@
+*{margin: 0 auto; padding: 0; font-family:sans-serif , "Microsoft Yi Baiti";}
+a{text-decoration: none;}
+.top{height: 150px; width: 100%; /*background-color: dimgrey;*/ background-image: url("../img/top.png");text-shadow:1px 2px 3px #000;
+    color: azure;font-size: 48px; line-height: 170px; padding-left: 15px;}
+
+.lft{float: left; width: 260px; border: 1px solid #EFEFEF;height: 400px;background-color: #fff;margin-top: 15px;position: fixed;}
+li{list-style-type:none; height: 30px;margin-top: 17px;font-size: 25px;text-align: center; }
+li a{ padding-left: 10px; color: #34495E;font-family: "Microsoft Himalaya"; }
+li:hover{ background-color:#AA9F99; color: #fff;}
+
+.rgh{width: 660px; background-color: #fff;min-height: 300px; float: right;margin-top: 15px;padding-left: 20px; padding-top: 15px;}
+
+#devlop,#git,#htcss,#oth{margin-bottom: 30px;min-height: 150px;}
+
+.bottom{height: 50px;text-align: center;line-height: 50px; font-size: 13px; border-top: 1px solid #34495E;}
